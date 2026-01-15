@@ -37,4 +37,4 @@ neue disruptive Wege zugehen.
 ### Social Media
 - https://www.instagram.com/algorithmicthinking/ 
 - https://www.facebook.com/AlgorithmicThinking/
-- tbd
+- https://x.com/algorithmthink

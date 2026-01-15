@@ -30,6 +30,7 @@ zu schaffen, dass wir in Deutschland die digitale Transformation endlich aktiv g
 neue disruptive Wege zugehen.
 
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
+- https://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Trottenberg,Ulrich/index.php
 - https://interscience-akademie.de/profil_bt/
 - https://de.wikipedia.org/wiki/Jean_P%C3%BCtz
 - https://mathedidaktik.uni-koeln.de/mitarbeiterinnen/prof-dr-inge-schwank
@@ -57,3 +58,6 @@ neue disruptive Wege zugehen.
 - Internet: www.interscience-akademie.de
 - Geschäftsführer: Prof. Dr. Ulrich Trottenberg
   
+## Videos
+- https://www.br.de/fernsehen/ard-alpha/sendungen/campus/talks/campus-talks-trottenberg-104.html
+- 

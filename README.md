@@ -48,12 +48,12 @@ neue disruptive Wege zugehen.
 - https://www.facebook.com/AlgorithmicThinking/
 - https://x.com/algorithmthink
 
-# Adress
+## Adress in Cologne
 - InterScience-Akademie für Algorithmik GmbH 
 - Spichernstraße 22 
 - D-50672 Köln 
-Telefon: +49 (0) 170 9179367
+- Telefon: +49 (0) 170 9179367
 - E-Mail: info@interscience.de
 - Internet: www.interscience-akademie.de
 - Geschäftsführer: Prof. Dr. Ulrich Trottenberg
-- 
+  

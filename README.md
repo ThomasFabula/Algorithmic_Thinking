@@ -66,3 +66,4 @@ neue disruptive Wege zugehen.
 - https://www.br-klassik.de/video/julian-nida-ruemelin-philosoph-und-ulrich-trottenberg-mathematiker-100.html
 - https://www.youtube.com/watch?v=svOwsoHmoVA
 - https://www.youtube.com/shorts/XTB3Nv_wsic
+- https://www.instagram.com/p/DQP0AeejMub/

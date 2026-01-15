@@ -35,6 +35,7 @@ neue disruptive Wege zugehen.
 - https://mathedidaktik.uni-koeln.de/mitarbeiterinnen/prof-dr-inge-schwank
 - https://x.com/TFConsult
 - https://www.mi.uni-koeln.de/~wienands/indexDE.php
+- et al.
 
 ## Weiterführende Informationen
 

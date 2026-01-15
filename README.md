@@ -6,7 +6,7 @@ Algorithmen sind Teil unseres Alltags. Dabei ist ein Algorithmus nichts anderes 
 aus endlich vielen Einzelanweisungen bestehende Handlungsvorschrift zur Lösung eines Problems. Kein Smartphone, 
 kein technisches Gerät mit Steuerung, kein Computer kommt ohne Algorithmen aus.
 
-Mit Algorithmic Thinking verbinden wir drei Perspektiven auf Algorithmen:
+### Mit Algorithmic Thinking verbinden wir drei Perspektiven auf Algorithmen:
 
 - Verstehen – Ein allgemeines Verständnis von Algorithmen als Grundwissen
 - Anwenden – Algorithmen in der Ausführung einer Programmiersprache
@@ -47,3 +47,12 @@ neue disruptive Wege zugehen.
 - https://www.instagram.com/algorithmicthinking/ 
 - https://www.facebook.com/AlgorithmicThinking/
 - https://x.com/algorithmthink
+
+# Adress
+InterScience-Akademie für Algorithmik GmbH 
+Spichernstraße 22 
+D-50672 Köln 
+Telefon: +49 (0) 170 9179367
+E-Mail: info@interscience.de
+Internet: www.interscience-akademie.de
+Geschäftsführer: Prof. Dr. Ulrich Trottenberg

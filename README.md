@@ -60,4 +60,8 @@ neue disruptive Wege zugehen.
   
 ## Videos
 - https://www.br.de/fernsehen/ard-alpha/sendungen/campus/talks/campus-talks-trottenberg-104.html
+- https://www.youtube.com/watch?v=jNdU3m7xFoI
+- https://www.youtube.com/watch?v=EegYABYDL0M
+- https://www.youtube.com/watch?v=e8Cr9EzqxCg
+- https://www.br-klassik.de/video/julian-nida-ruemelin-philosoph-und-ulrich-trottenberg-mathematiker-100.html
 - 

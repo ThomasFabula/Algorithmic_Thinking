@@ -28,3 +28,13 @@ Wir sind eine inspirierende Gruppe von Jungen und Älteren, von Mathematikern, P
 Unternehmern und Kunsthistorikern, die alle einen Wunsch haben, über Algorithmen aufzuklären und damit die Grundlage 
 zu schaffen, dass wir in Deutschland die digitale Transformation endlich aktiv gestalten und dabei lernen, auch 
 neue disruptive Wege zugehen.
+
+## Weiterführende Informationen
+
+### Scientific & technical BLOG
+- https://interscience-akademie.de/
+
+### Social Media
+- https://www.instagram.com/algorithmicthinking/ 
+- https://www.facebook.com/AlgorithmicThinking/
+- tbd

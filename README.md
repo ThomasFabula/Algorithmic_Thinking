@@ -29,6 +29,13 @@ Unternehmern und Kunsthistorikern, die alle einen Wunsch haben, über Algorithme
 zu schaffen, dass wir in Deutschland die digitale Transformation endlich aktiv gestalten und dabei lernen, auch 
 neue disruptive Wege zugehen.
 
+- https://de.wikipedia.org/wiki/Ulrich_Trottenberg
+- https://interscience-akademie.de/profil_bt/
+- https://de.wikipedia.org/wiki/Jean_P%C3%BCtz
+- https://mathedidaktik.uni-koeln.de/mitarbeiterinnen/prof-dr-inge-schwank
+- https://x.com/TFConsult
+- https://www.mi.uni-koeln.de/~wienands/indexDE.php
+
 ## Weiterführende Informationen
 
 ### Scientific & technical BLOG

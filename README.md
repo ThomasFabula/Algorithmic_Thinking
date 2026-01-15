@@ -41,6 +41,7 @@ neue disruptive Wege zugehen.
 
 ### Scientific & technical BLOG
 - https://interscience-akademie.de/
+- https://tfconsult.com/tag/algorithmic-thinking/
 
 ### Social Media
 - https://www.instagram.com/algorithmicthinking/ 

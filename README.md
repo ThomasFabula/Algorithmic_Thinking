@@ -1,7 +1,7 @@
 # Algorithmic_Thinking
 Algorithms and Methods, education, R&amp;D, problem solving 
 
-##Was ist Algorithmic Thinking?
+## Was ist Algorithmic Thinking?
 Algorithmen sind Teil unseres Alltags. Dabei ist ein Algorithmus nichts anderes als eine präzise, eindeutige, 
 aus endlich vielen Einzelanweisungen bestehende Handlungsvorschrift zur Lösung eines Problems. Kein Smartphone, 
 kein technisches Gerät mit Steuerung, kein Computer kommt ohne Algorithmen aus.

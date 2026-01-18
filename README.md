@@ -30,7 +30,7 @@ entrepreneurs and art historians, who all share a desire to educate people about
 for Germany to finally take an active role in shaping the digital transformation and learn to 
 pursue new, disruptive paths.
 
-# DEUSCTH
+# DEUTSCH
 ## Was ist Algorithmic Thinking?
 Algorithmen sind Teil unseres Alltags. Dabei ist ein Algorithmus nichts anderes als eine präzise, eindeutige, 
 aus endlich vielen Einzelanweisungen bestehende Handlungsvorschrift zur Lösung eines Problems. Kein Smartphone, 
@@ -61,6 +61,8 @@ neue disruptive Wege zugehen.
 
 # Further information
 
+## persons involved
+
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
 - https://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Trottenberg,Ulrich/index.php
 - https://interscience-akademie.de/profil_bt/
@@ -70,12 +72,12 @@ neue disruptive Wege zugehen.
 - https://www.mi.uni-koeln.de/~wienands/indexDE.php
 - et al.
 
-### Scientific & technical BLOG
+## Scientific & technical BLOG
 - https://interscience-akademie.de/
 - https://tfconsult.com/tag/algorithmic-thinking/
 - https://tfconsult.com/digital-competence-through-algorithms/
 
-### Social Media
+## Social Media
 - https://www.instagram.com/algorithmicthinking/ 
 - https://www.facebook.com/AlgorithmicThinking/
 - https://x.com/algorithmthink

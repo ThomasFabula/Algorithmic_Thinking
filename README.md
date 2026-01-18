@@ -61,7 +61,7 @@ neue disruptive Wege zugehen.
 
 # Further information
 
-## persons involved
+## Persons involved
 
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
 - https://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Trottenberg,Ulrich/index.php

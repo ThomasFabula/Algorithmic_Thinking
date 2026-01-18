@@ -1,6 +1,36 @@
 # Algorithmic_Thinking
 Algorithms and Methods, education, R&amp;D, problem solving 
 
+# ENGLISH
+## What is algorithmic thinking?
+Algorithms are part of our everyday lives. An algorithm is nothing more than a precise, unambiguous 
+set of instructions consisting of a finite number of individual steps for solving a problem. No smartphone, 
+no technical device with controls, no computer can function without algorithms.
+
+### With algorithmic thinking, we combine three perspectives on algorithms:
+
+- Understanding – A general understanding of algorithms as basic knowledge
+- Application – Algorithms in the execution of a programming language
+- Thinking – A form of thinking that drives the solution of problems in individual instructions of a rule of action.
+
+Without an understanding of these three perspectives, we create fear of algorithms; with an understanding of
+algorithmic thinking, we help shape the future.
+
+## Mission
+We are certain that digitalisation requires a fundamental process of change from all of us and 
+that we do not have much time left to catch up. Therefore, we demand:
+
+- We want algorithms to be firmly anchored in the school curriculum.
+- We want to promote an information campaign in the media.
+- We want further training opportunities for all areas of society, especially in education, business, the legal system and politics.
+
+## Who are we?
+We are an inspiring group of young and elderly people, mathematicians, physicists and biologists, teachers, 
+entrepreneurs and art historians, who all share a desire to educate people about algorithms and thus lay the foundation 
+for Germany to finally take an active role in shaping the digital transformation and learn to 
+pursue new, disruptive paths.
+
+# DEUSCTH
 ## Was ist Algorithmic Thinking?
 Algorithmen sind Teil unseres Alltags. Dabei ist ein Algorithmus nichts anderes als eine präzise, eindeutige, 
 aus endlich vielen Einzelanweisungen bestehende Handlungsvorschrift zur Lösung eines Problems. Kein Smartphone, 
@@ -29,6 +59,8 @@ Unternehmern und Kunsthistorikern, die alle einen Wunsch haben, über Algorithme
 zu schaffen, dass wir in Deutschland die digitale Transformation endlich aktiv gestalten und dabei lernen, auch 
 neue disruptive Wege zugehen.
 
+# Further information
+
 - https://de.wikipedia.org/wiki/Ulrich_Trottenberg
 - https://www.mi.uni-koeln.de/main/Alle/Personen/Lehrkoerper_Mitarbeiter/Mitarbeiter_alphabetisch/Trottenberg,Ulrich/index.php
 - https://interscience-akademie.de/profil_bt/
@@ -37,8 +69,6 @@ neue disruptive Wege zugehen.
 - https://x.com/TFConsult
 - https://www.mi.uni-koeln.de/~wienands/indexDE.php
 - et al.
-
-## Weiterführende Informationen
 
 ### Scientific & technical BLOG
 - https://interscience-akademie.de/

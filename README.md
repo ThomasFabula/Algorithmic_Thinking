@@ -100,3 +100,4 @@ neue disruptive Wege zugehen.
 - https://www.youtube.com/watch?v=svOwsoHmoVA
 - https://www.youtube.com/shorts/XTB3Nv_wsic
 - https://www.instagram.com/p/DQP0AeejMub/
+- tbd

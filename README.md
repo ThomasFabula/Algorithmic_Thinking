@@ -84,7 +84,7 @@ neue disruptive Wege zugehen.
 
 ## Adress in Cologne
 - InterScience-Akademie für Algorithmik GmbH 
-- Spichernstraße 22 
+- Spichernstraße 22 (to be corrected)
 - D-50672 Köln 
 - Telefon: +49 (0) 170 9179367
 - E-Mail: info@interscience.de

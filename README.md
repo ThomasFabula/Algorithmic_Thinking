@@ -75,6 +75,7 @@ neue disruptive Wege zugehen.
 ## Scientific & technical BLOG
 - https://interscience-akademie.de/
 - https://tfconsult.com/tag/algorithmic-thinking/
+- https://tfconsult.com/akademie-fur-algorithmen/
 - https://tfconsult.com/digital-competence-through-algorithms/
 
 ## Social Media
